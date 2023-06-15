@@ -2,7 +2,7 @@
 Created a resume generator application using ReactJS and Bootstrap
 
 #First install the dependencies
-npm install
+<p>npm install</p>
 
 #To run the server
-npm start
+<p>npm start</p>
